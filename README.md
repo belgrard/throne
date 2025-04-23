@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://habbofont.net/font/windows_lowercase/throne.gif" alt="Throne Logo" width="200"/>
+  <img src="throne.png" alt="Throne Logo" width="200"/>
 </p>
 
 <p align="center">
